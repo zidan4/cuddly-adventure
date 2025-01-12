@@ -15,6 +15,9 @@ labels = hierarchical_cluster.fit_predict(data)
 plt.scatter(x, y, c=labels)
 plt.show() 
 
+
+
+
 #hearachical clustering with Dendogram
 
 import numpy as np
